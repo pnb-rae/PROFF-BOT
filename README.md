@@ -136,4 +136,3 @@ broadcast - to broadcast a message to all Eva Maria users
 Licensed under [GNU AGPL 3.0.](https://github.com/MrMKN/PROFESSOR-BOT/blob/main/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*. (its external alert)
 
-,,`2/2/2002
